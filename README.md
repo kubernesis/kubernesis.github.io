@@ -2,7 +2,8 @@
 
 ## Why [operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)?
 > Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller). The kubernetes' operator pattern concept lets you extend the cluster's behaviour without modifying the code of Kubernetes itself by linking controllers to one or more custom resources.
->  
+>
+
 Spurred by px.dev's [post about operators](https://blog.px.dev/k8s-operator/) this "blog" speaks to why leveraging operators need not result in [loss of control](https://blog.px.dev/k8s-operator/#loss-of-user-control) or be a [maintenance burden](https://blog.px.dev/k8s-operator/#maintenance-burden)
 
 ## Loss of control
