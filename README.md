@@ -1,5 +1,5 @@
-# Kubernesis
-Kubernetes was a steersman or pilot, and kubernesis is the act of steering
+*Kubernetes was a steersman or pilot, and kubernesis is the act of steering*
+
 ## Why [operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)?
 > Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller). The kubernetes' operator pattern concept lets you extend the cluster's behaviour without modifying the code of Kubernetes itself by linking controllers to one or more custom resources.
 >  
